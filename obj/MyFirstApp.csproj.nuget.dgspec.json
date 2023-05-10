@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Des\\Desktop\\CSCE 547\\MyFirstApp\\MyFirstApp.csproj": {}
+    "C:\\Users\\Des\\Desktop\\CSCE 547\\CSCE 547\\MyFirstApp\\MyFirstApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Des\\Desktop\\CSCE 547\\MyFirstApp\\MyFirstApp.csproj": {
+    "C:\\Users\\Des\\Desktop\\CSCE 547\\CSCE 547\\MyFirstApp\\MyFirstApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Des\\Desktop\\CSCE 547\\MyFirstApp\\MyFirstApp.csproj",
+        "projectUniqueName": "C:\\Users\\Des\\Desktop\\CSCE 547\\CSCE 547\\MyFirstApp\\MyFirstApp.csproj",
         "projectName": "MyFirstApp",
-        "projectPath": "C:\\Users\\Des\\Desktop\\CSCE 547\\MyFirstApp\\MyFirstApp.csproj",
+        "projectPath": "C:\\Users\\Des\\Desktop\\CSCE 547\\CSCE 547\\MyFirstApp\\MyFirstApp.csproj",
         "packagesPath": "C:\\Users\\Des\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Des\\Desktop\\CSCE 547\\MyFirstApp\\obj\\",
+        "outputPath": "C:\\Users\\Des\\Desktop\\CSCE 547\\CSCE 547\\MyFirstApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Des\\AppData\\Roaming\\NuGet\\NuGet.Config",
